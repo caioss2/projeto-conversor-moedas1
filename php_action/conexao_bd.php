@@ -3,7 +3,7 @@
 // Dados de conexão com o banco de dados
 $server_name = 'localhost';  // Nome do servidor (geralmente localhost)
 $user_name = 'techcia';       // Usuário do banco de dados
-$password = 'C1y1z2345';        // Senha do banco de dados
+$password = 'C1y1z2345@';        // Senha do banco de dados
 $db_name = 'dbConversoes';     // Nome do banco de dados
 
 // Cria a conexão com o banco usando mysqli
